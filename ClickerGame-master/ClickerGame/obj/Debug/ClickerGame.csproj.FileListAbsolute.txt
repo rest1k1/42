@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\bin\Debug\ClickerGame.exe.config
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\bin\Debug\ClickerGame.exe
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\bin\Debug\ClickerGame.pdb
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\obj\Debug\ClickerGame.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\obj\Debug\ClickerGame.Form1.resources
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\obj\Debug\ClickerGame.Properties.Resources.resources
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\obj\Debug\ClickerGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\obj\Debug\ClickerGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\obj\Debug\ClickerGame.exe
+C:\Users\user\Desktop\ClickerGame-master\ClickerGame\obj\Debug\ClickerGame.pdb
